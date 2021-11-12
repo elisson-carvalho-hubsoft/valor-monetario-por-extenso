@@ -1,2 +1,2 @@
 # valor-monetario-por-extenso
-teste de pacote
+Recebe um valor monetário e retorna ele por extenso

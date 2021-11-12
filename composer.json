@@ -1,6 +1,6 @@
 {
     "name": "elisson-carvalho-hubsoft/valor-monetario-por-extenso",
-    "description": "teste de pacote",
+    "description": "Recebe um valor monetário e retorna ele por extenso",
     "authors": [
         {
             "name": "elisson-carvalho-hubsoft",
